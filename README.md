@@ -9,11 +9,9 @@ Docs. is a sleek and modern web application designed to revolutionize your note-
 - **Draggable Notes**: Easily rearrange your notes by dragging and dropping them across the interface, providing a flexible and intuitive way to organize your ideas.
 - **Modern UI Design**: Enjoy a clean and aesthetically pleasing user interface that enhances your productivity and makes note-taking a delightful experience.
 - **Smooth Animations**: Experience fluid and responsive animations powered by Framer Motion, adding a touch of elegance and seamlessness to every interaction.
-- **Real-Time Sync**: Keep your notes synchronized across all your devices in real-time, ensuring that you always have access to your latest thoughts and ideas.
-- **Customizable Themes**: Personalize your workspace with a variety of themes, allowing you to create an environment that best suits your style and preferences.
 - **Markdown Support**: Utilize markdown to format your notes with ease, adding headers, lists, code blocks, and more for better organization and readability.
-- **Rich Text Editing**: Enjoy advanced text editing features, including bold, italics, underlining, and hyperlinks, to create rich and detailed notes.
-- **Search Functionality**: Quickly find the notes you need with a powerful search feature that scans through your content in an instant.
+
+
 
 ### Technology Stack
 
@@ -25,9 +23,9 @@ Docs. is a sleek and modern web application designed to revolutionize your note-
 
 To get started with Docs., follow these simple steps:
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/docs-app.git`
+1. **Clone the Repository**: `git clone https://github.com/ekhassan/docs.git`
 2. **Install Dependencies**: Navigate to the project directory and run `npm install` to install all necessary dependencies.
-3. **Run the Application**: Start the development server with `npm start` and open your browser to `http://localhost:3000` to see Docs. in action.
+3. **Run the Application**: Start the development server with `npm run dev` and open your browser to `http://localhost:5173 or http://yourcurrentip:5173` to see Docs. in action.
 4. **Explore and Customize**: Begin exploring the features, and feel free to customize the themes and settings to match your preferences.
 
 ### Contributing
